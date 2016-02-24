@@ -1,1 +1,5 @@
-8bit_workspace8bit_workspace8bit_workspace8bit_workspace8bit_workspace8bit_workspace8bit_workspace8bit_workspace
+Audio Workspace
+
+git clone https://github.com/austindoeswork/audio_workspace
+
+
